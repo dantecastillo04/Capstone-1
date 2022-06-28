@@ -1,0 +1,38 @@
+/*CSS Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	font-family:'Source Sans Pro', sans-serif;
+	text-decoration: none;
+
+}
+
+a {
+	text-decoration: none;
+	
+}
+
+.footer {
+	background-color: #C46F1A;
+}
+
+.btn {
+            background: rgb(1, 1, 1);
+            color: white;
+            border-radius: 30px;
+            border: none;
+            padding: 10px;
+}
+
+#about {
+	background: #C46F1A;
+} 
+
+#contact {
+	background: #C46F1A;
+}
